@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application2</string>
+    <string name="news_fragment">blank1</string>
+    <string name="fragment_container">blank</string>
+    <string name="news">blah</string>
+    <string name="hello_blank_fragment">hello_blank_fragment</string>
+</resources>
